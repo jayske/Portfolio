@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1flfLct8lIdoQQCcTDfpDBAVFHZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="" />
+      <created>1596797544353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596797544353</updated>
+      <workItem from="1596797556643" duration="1682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="305" key="Github.ShareDialog" timestamp="1596798012498">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="510" y="305" key="Github.ShareDialog/1280.0.1024.1366/0.0.1280.800@0.0.1280.800" timestamp="1596798012498" />
+    <state x="388" y="115" key="Github.UntrackedFilesDialog" timestamp="1596798039608">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="388" y="115" key="Github.UntrackedFilesDialog/1280.0.1024.1366/0.0.1280.800@0.0.1280.800" timestamp="1596798039608" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1596797793650">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/1280.0.1024.1366/0.0.1280.800@0.0.1280.800" timestamp="1596797793650" />
+    <state x="310" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1596800157129">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="310" y="234" key="com.intellij.ide.util.TipDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596800157129" />
+  </component>
+</project>
