@@ -27,16 +27,16 @@
 
     .header_area .main-menu .navbar-nav .active a{
         background: var(--gradient);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: var(--text);
+        -webkit-background-clip: inherit;
+        -webkit-text-fill-color: #1c7430;
+        background-clip: initial;
     }
 
     .header_area .main-menu .navbar-nav a:hover{
         background: var(--gradient);
         -webkit-background-clip: text;
         -webkit-text-fill-color: #1c7430;
-        background-clip: var(--secondary);
+        background-clip: initial;
     }
 
     /* end navigation */
