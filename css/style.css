@@ -1,0 +1,75 @@
+
+    /* import fonts from font.css */
+    @import url(./fonts.css);
+
+    /* import -variables */
+    @import url(./partials/_variables.css);
+
+    /* import -global.css */
+    @import url(./partials/_global.css);
+
+    /* start navigation */
+
+    .header_area.main-menu.navbar.navbar-brand{
+        padding:0 2rem 0 5rem;
+    }
+
+    .header_area.main-menu.navbar{
+        padding: 1rem 20rem;
+    }
+
+    .header_area.main-menu.nav-item.nav-link{
+        font:normal 500 15px/2px var(--roboto);
+        text-transform: uppercase;
+        padding: 1.7rem;
+        color: var(--title-color);
+    }
+
+    .header_area.main-menu.navbar-nav.active a{
+        background: var(--gradient);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: var(--text);
+    }
+
+    .header_area.main-menu.navbar-nav a:hover{
+        background: var(--gradient);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: #1c7430;
+        background-clip: var(--secondary);
+    }
+
+    /* end navigation */
+
+    /* banner */
+    .site-main.site-banner{
+        background: url(../img/banner.jpg) no-repeat 0 50%;
+    }
+    .site-main.site-banner.site-title h3{
+        padding-top: 35%;
+        font-weight:500;
+    }
+    .site-main.site-banner.site-title h3::after{
+        content:" ";
+        height: 2px;
+        width: 18px;
+        background: #1d2124;
+        display: inline-block;
+        margin-left: 5%;
+        transform:translateY(-10px);
+    }
+    .site-main.site-banner.site-title h1{
+        font-size: 5rem;
+    }
+    .site-main.site-banner.site-title h4{
+        font-size: 1.5rem;
+    }
+    .site-main.site-banner.banner-img img{
+        padding: 7rem 0;
+        width: 90rem;
+    }
+
+
+    /* end banner*/
+
+

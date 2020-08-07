@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="" />
+    <list default="true" id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/partials/_global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/partials/_variables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.3.5.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +52,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -25,18 +68,32 @@
     </option>
   </component>
   <component name="ProjectId" id="1flfLct8lIdoQQCcTDfpDBAVFHZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,21 +106,80 @@
       <option name="presentableId" value="Default" />
       <updated>1596797544353</updated>
       <workItem from="1596797556643" duration="1682000" />
+      <workItem from="1596800157055" duration="506000" />
+      <workItem from="1596800784980" duration="13057000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="510" y="305" key="Github.ShareDialog" timestamp="1596798012498">
+    <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1596803048463">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596803048463" />
+    <state x="510" y="305" key="Github.ShareDialog" timestamp="1596800463581">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="510" y="305" key="Github.ShareDialog/1280.0.1024.1366/0.0.1280.800@0.0.1280.800" timestamp="1596798012498" />
-    <state x="388" y="115" key="Github.UntrackedFilesDialog" timestamp="1596798039608">
+    <state x="510" y="305" key="Github.ShareDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596800463581" />
+    <state x="388" y="115" key="Github.UntrackedFilesDialog" timestamp="1596800468578">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="388" y="115" key="Github.UntrackedFilesDialog/1280.0.1024.1366/0.0.1280.800@0.0.1280.800" timestamp="1596798039608" />
+    <state x="388" y="115" key="Github.UntrackedFilesDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596800468578" />
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom" timestamp="1596809181874">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181874" />
+    <state width="1238" height="263" key="GridCell.Tab.0.center" timestamp="1596809181871">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.center/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181871" />
+    <state width="1238" height="263" key="GridCell.Tab.0.left" timestamp="1596809181870">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.left/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181870" />
+    <state width="1238" height="263" key="GridCell.Tab.0.right" timestamp="1596809181873">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.right/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181873" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1596809181880">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181880" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1596809181877">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181877" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1596809181876">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181876" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1596809181879">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181879" />
+    <state width="1238" height="263" key="GridCell.Tab.2.bottom" timestamp="1596809181886">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.2.bottom/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181886" />
+    <state width="1238" height="263" key="GridCell.Tab.2.center" timestamp="1596809181883">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.2.center/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181883" />
+    <state width="1238" height="263" key="GridCell.Tab.2.left" timestamp="1596809181882">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.2.left/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181882" />
+    <state width="1238" height="263" key="GridCell.Tab.2.right" timestamp="1596809181884">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.2.right/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596809181884" />
     <state x="149" y="39" key="SettingsEditor" timestamp="1596797793650">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -72,5 +188,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="310" y="234" key="com.intellij.ide.util.TipDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596800157129" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1596801906105">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596801906105" />
   </component>
 </project>

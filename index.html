@@ -6,10 +6,104 @@
     <meta http-equiv="X-UA-Compatible" content="le=edge">
     <title>Title</title>
 
+    <!-- Bootstrap css file -->
+    <link rel="stylesheet" href="./css/bootstrap.min.css/">
+
+    <!-- font awesome icons -->
+    <link rel="stylesheet" href="./css/all.min.css/">
+
     <!-- custom css file -->
-    <link rel="stylesheet" href=".css/style.css/">
+    <link rel="stylesheet" href="./css/style.css/">
+    <!-- this will help overwrite the bootstrap -->
+
 </head>
 <body>
+
+<!-- ================================= Start Header =====================================================-->
+<header class="header_area">
+    <div class="main-menu">
+        <nav class="navbar navbar-expand-lg navbar-light">
+                <a class="navbar-brand" href="#">Jayse</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <div class="mr-auto"></div>
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <div class="active"></div>
+                            <a class="nav-link" href="#">About<span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Contact</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Business</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Projects
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="#">Something else here</a>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+        </nav>
+    </div>
+</header>
+
+<!-- ======================================================== End Header ===================================-->
+
+
+
+
+
+<!-- ======================================================== Introduction ===================================-->
+
+<main class="site-main">
+    <!-------------------------------------- Banner-------------------------------->
+
+        <section class="site-banner">
+            <div class="container">
+                <div class="row">
+                    <!-- create 2 colummns -->
+                    <div class="col-lg6-md-12 site-title">
+                        <h3 class="title-text">Hey</h3>
+                        <h1 class="title-text text-uppercase">I am Jayse</h1>
+                        <h4 class="title-text text-uppercase">Incoming Software Developer</h4>
+                        <div class="site-button">
+                            <div class="d-fex flex-row flex-wrap">
+                                <button type="button" class="btn button primary-button mr-4 text-uppercase">Get CV</button>
+                                <button type="button" class="btn button secondary-button text-uppercase">Profile</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg6-md-12">
+                        <img src="./img/banner.jpg" alt="banner-img" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    <!--------------------------------------  End Banner-------------------------------->
+
+</main>
+
+<!-- ======================================================== Introduction End ===================================-->
+
+
+<!-- Jquery js file -->
+<script src="./js/jquery.3.5.1.js"></script>
+
+<!-- Bootstrap js file -->
+<script src=" ./js/bootstrap.min.js"></script>
+
 
 </body>
 </html>
