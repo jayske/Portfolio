@@ -8,6 +8,7 @@
     /* import -global.css */
     @import url(./partials/_global.css);
 
+
     /* start navigation */
 
     .header_area .main-menu .navbar .navbar-brand{
@@ -15,11 +16,11 @@
     }
 
     .header_area .main-menu .navbar{
-        padding: 1rem 15rem;
+        padding: 1rem 20rem;
     }
 
     .header_area .main-menu .nav-item .nav-link{
-        font:normal 500 15px/2px var(--roboto);
+        font:normal 500 15px/1px var(--roboto);
         text-transform: uppercase;
         padding: 1.7rem;
         color: var(--title-color);
@@ -27,7 +28,7 @@
 
     .header_area .main-menu .navbar-nav .active a{
         background: var(--gradient-color);
-        -webkit-background-clip: inherit;
+        -webkit-background-clip: text;
         -webkit-text-fill-color: #1c7430;
         background-clip: initial;
     }
@@ -41,20 +42,25 @@
 
     /* end navigation */
 
+    /* Home */
+    .home-inner{
+        background-image: url(../img/banner.jpg);
+    }
+
     /* banner */
     .site-main .site-banner{
-        background: url(../img/banner.jpg) no-repeat 0 50%;
+        background: url(../img/banner.jpg) no-repeat 50% 50%;
     }
     .site-main .site-banner .site-title h3{
-        padding-top: 50%;
-        font-weight:500;
+        padding-top: 15%;
+        font-weight: 500;
     }
     .site-main .site-banner .site-title h3::after{
         content:" ";
         height: 2px;
-        width: 18px;
-        background: #1d2124;
-        display: inline-block;
+        width: 18vw;
+        background: black;
+        /*display: inline-block;*/
         margin-left: 5%;
         transform:translateY(-10px);
     }
@@ -64,8 +70,8 @@
     .site-main .site-banner .site-title h4{
         font-size: 1.5rem;
     }
-    .site-main .site-banner .banner-img img{
-        padding: 7rem 0;
+    .site-main .site-banner .banner-img > img{
+        padding: 10rem 10%;
         width: 90rem;
     }
 
