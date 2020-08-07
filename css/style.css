@@ -10,7 +10,7 @@
 
     /* start navigation */
 
-    .header_area.main-menu.navbar.navbar-brand{
+    .header_area .main-menu .navbar .navbar-brand{
         padding:0 2rem 0 5rem;
     }
 
@@ -18,21 +18,21 @@
         padding: 1rem 20rem;
     }
 
-    .header_area.main-menu.nav-item.nav-link{
+    .header_area .main-menu .nav-item .nav-link{
         font:normal 500 15px/2px var(--roboto);
         text-transform: uppercase;
         padding: 1.7rem;
         color: var(--title-color);
     }
 
-    .header_area.main-menu.navbar-nav.active a{
+    .header_area .main-menu .navbar-nav .active a{
         background: var(--gradient);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: var(--text);
     }
 
-    .header_area.main-menu.navbar-nav a:hover{
+    .header_area .main-menu .navbar-nav a:hover{
         background: var(--gradient);
         -webkit-background-clip: text;
         -webkit-text-fill-color: #1c7430;
