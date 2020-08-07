@@ -2,46 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/partials/_global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/partials/_variables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.3.5.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/partials/_global.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/partials/_global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/partials/_variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/partials/_variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,8 +71,16 @@
       <updated>1596797544353</updated>
       <workItem from="1596797556643" duration="1682000" />
       <workItem from="1596800157055" duration="506000" />
-      <workItem from="1596800784980" duration="13057000" />
+      <workItem from="1596800784980" duration="13420000" />
     </task>
+    <task id="LOCAL-00001" summary="First banner created with Navbar">
+      <created>1596828489238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596828489238</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,12 +88,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First banner created with Navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="First banner created with Navbar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1596803048463">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596803048463" />
+    <state x="249" y="5" key="CommitChangelistDialog2" timestamp="1596828488795">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="249" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1596828488795" />
     <state x="510" y="305" key="Github.ShareDialog" timestamp="1596800463581">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -188,6 +166,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="310" y="234" key="com.intellij.ide.util.TipDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596800157129" />
+    <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596828798430">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800@0.0.1280.800" timestamp="1596828798430" />
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1596801906105">
       <screen x="0" y="0" width="1280" height="800" />
     </state>

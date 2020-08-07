@@ -46,7 +46,7 @@
         background: url(../img/banner.jpg) no-repeat 0 50%;
     }
     .site-main.site-banner.site-title h3{
-        padding-top: 35%;
+        padding-top: 50%;
         font-weight:500;
     }
     .site-main.site-banner.site-title h3::after{
