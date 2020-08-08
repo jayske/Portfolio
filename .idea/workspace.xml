@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/render.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/all.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/partials/_global.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/partials/_global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/partials/_variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/partials/_variables.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,12 +50,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.indexs.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="indexs.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/indexs.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.indexs.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -72,7 +76,7 @@
       <updated>1596797544353</updated>
       <workItem from="1596797556643" duration="1682000" />
       <workItem from="1596800157055" duration="506000" />
-      <workItem from="1596800784980" duration="19393000" />
+      <workItem from="1596800784980" duration="23502000" />
     </task>
     <task id="LOCAL-00001" summary="First banner created with Navbar">
       <created>1596828489238</created>
@@ -109,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596830723277</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Background image does not show up!">
+      <created>1596835452825</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596835452825</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,20 +133,22 @@
     <MESSAGE value="Different Navbar (green hover letters)" />
     <MESSAGE value="New Navbar ( &quot;About&quot; default is Green )" />
     <MESSAGE value="Navbar adjusted to the middle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Navbar adjusted to the middle" />
+    <MESSAGE value="Background image does not show up!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Background image does not show up!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1596803048463">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596803048463" />
-    <state x="249" y="5" key="CommitChangelistDialog2" timestamp="1596830723090">
+    <state x="249" y="5" key="CommitChangelistDialog2" timestamp="1596835452604">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="249" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1596830723090" />
-    <state x="510" y="305" key="Github.ShareDialog" timestamp="1596800463581">
+    <state x="249" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1596835452604" />
+    <state x="510" y="305" key="Github.ShareDialog" timestamp="1596835552171">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="510" y="305" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1596835552171" />
     <state x="510" y="305" key="Github.ShareDialog/1280.0.1024.1366/0.0.1280.800@0.0.1280.800" timestamp="1596798012498" />
     <state x="510" y="305" key="Github.ShareDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596800463581" />
     <state x="388" y="115" key="Github.UntrackedFilesDialog" timestamp="1596800468578">

@@ -2,80 +2,41 @@
     /* import fonts from font.css */
     @import url(./fonts.css);
 
-    /* import -variables */
-    @import url(./partials/_variables.css);
 
-    /* import -global.css */
-    @import url(./partials/_global.css);
-
-
-    /* start navigation */
-
-    .header_area .main-menu .navbar .navbar-brand{
-        padding:0 2rem 0 5rem;
+    body{
+        overflow-x: hidden;
+        font-family: "Roboto",sans-serif;
+        color: #505962
     }
 
-    .header_area .main-menu .navbar{
-        padding: 1rem 20rem;
-    }
-
-    .header_area .main-menu .nav-item .nav-link{
-        font:normal 500 15px/1px var(--roboto);
+    /* navigation */
+    .navbar{
         text-transform: uppercase;
-        padding: 1.7rem;
-        color: var(--title-color);
-    }
-
-    .header_area .main-menu .navbar-nav .active a{
-        background: var(--gradient-color);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: #1c7430;
-        background-clip: initial;
-    }
-
-    .header_area .main-menu .navbar-nav a:hover{
-        background: var(--gradient-color);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: #1c7430;
-        background-clip: initial;
-    }
-
-    /* end navigation */
-
-    /* Home */
-    .home-inner{
-        background-image: url(../img/banner.jpg);
-    }
-
-    /* banner */
-    .site-main .site-banner{
-        background: url(../img/banner.jpg) no-repeat 50% 50%;
-    }
-    .site-main .site-banner .site-title h3{
-        padding-top: 15%;
         font-weight: 500;
-    }
-    .site-main .site-banner .site-title h3::after{
-        content:" ";
-        height: 2px;
-        width: 18vw;
-        background: black;
-        /*display: inline-block;*/
-        margin-left: 5%;
-        transform:translateY(-10px);
-    }
-    .site-main .site-banner .site-title h1{
-        font-size: 5rem;
-    }
-    .site-main .site-banner .site-title h4{
-        font-size: 1.5rem;
-    }
-    .site-main .site-banner .banner-img > img{
-        padding: 10rem 10%;
-        width: 90rem;
+        font-size: .9rem;
+        letter-spacing: .1rem;
+        background: rgba(0 ,0, 0, 0.6)!important;
     }
 
+    .navbar-brand img{
+        height: 2rem;
+    }
 
-    /* end banner*/
+    .navbar-nav li{
+        padding-right: .7rem;
+    }
 
+    .navbar-dark .navbar-nav .nav-link {
+        color: whitesmoke;
+        padding: .8rem;
+    }
 
+    .navbar-dark .navbar-nav .nav-link.active,
+    .navbar-dark .navbar-nav .nav-link:hover{
+        color: #1ebba3;
+    }
+
+    /* landing */
+    .home-inner{
+        background-image: url("../img/render.JPG");
+    }
