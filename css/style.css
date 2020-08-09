@@ -37,7 +37,7 @@
 
     /* landing */
     .home-inner img{
-        background-image: url("../img/banner.png");
+        background: url("../img/banner.png");
     }
 
     .caption{
@@ -69,4 +69,29 @@
         border-radius: 0;
         padding: .6rem 1.3rem;
         font-size: 1.1rem;
+    }
+
+    /*--- Project ---*/
+    .narrow{
+        width: 75%;
+        margin: 3.5rem auto;
+        padding-top: 2rem;
+    }
+    .narrow h1{
+        font-size: 2.4rem;
+    }
+    .btn-secondary {
+        border-width: medium;
+        border-radius: 0;
+        text-transform: uppercase;
+        font-size: 1.2rem;
+        padding: .6rem 1.2rem;
+        margin: 1rem;
+        color: white;
+        background-color: #1ebba3;
+        border-color: #1ebba3;
+    }
+    .btn-secondary {
+        background-color: #189582;
+        border-color: #1ebba3;
     }

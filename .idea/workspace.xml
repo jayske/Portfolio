@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="">
+    <list default="true" id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="second landing screen with code section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/indexs.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexs.html" afterDir="false" />
@@ -74,7 +74,7 @@
       <updated>1596797544353</updated>
       <workItem from="1596797556643" duration="1682000" />
       <workItem from="1596800157055" duration="506000" />
-      <workItem from="1596800784980" duration="30545000" />
+      <workItem from="1596800784980" duration="34159000" />
     </task>
     <task id="LOCAL-00001" summary="First banner created with Navbar">
       <created>1596828489238</created>
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596962119925</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="second landing screen with code section">
+      <created>1596963136325</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596963136325</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,17 +155,18 @@
     <MESSAGE value="Background image does not show up!" />
     <MESSAGE value="New shorten indexs" />
     <MESSAGE value="features with 1st icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="features with 1st icon" />
+    <MESSAGE value="second landing screen with code section" />
+    <option name="LAST_COMMIT_MESSAGE" value="second landing screen with code section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1596803048463">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596803048463" />
-    <state x="249" y="5" key="CommitChangelistDialog2" timestamp="1596962119490">
+    <state x="249" y="5" key="CommitChangelistDialog2" timestamp="1596963140304">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="249" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1596962119490" />
+    <state x="249" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1596963140304" />
     <state width="326" height="442" key="Diff.GoToChangePopup" timestamp="1596856004584">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -258,13 +266,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800@0.0.1280.800" timestamp="1596959005941" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1596829768484">
+    <state width="600" height="426" key="javadoc.popup" timestamp="1596964454827">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="600" height="424" key="javadoc.popup/0.0.1280.800@0.0.1280.800" timestamp="1596829768484" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1596801906105">
+    <state width="600" height="426" key="javadoc.popup/0.0.1280.800@0.0.1280.800" timestamp="1596964454827" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1596966146756">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1596966146756" />
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596801906105" />
   </component>
 </project>
