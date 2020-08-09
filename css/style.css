@@ -8,6 +8,13 @@
         color: #505962
     }
 
+    .offset:before{
+        display: block;
+        content: "";
+        height: 5rem;
+        margin-top: 4rem;
+    }
+
     /* navigation */
     .navbar{
         text-transform: uppercase;
@@ -36,9 +43,6 @@
     }
 
     /* landing */
-    .home-inner img{
-        background: url("../img/banner.png");
-    }
 
     .caption{
         width: 100%;
@@ -94,4 +98,46 @@
     .btn-secondary {
         background-color: #189582;
         border-color: #1ebba3;
+    }
+
+    /*----- Features -----*/
+    .jumbotron{
+        margin-bottom: 0;
+        padding: 2rem 0 3.5rem;
+        border-radius: 0;
+    }
+
+    .h3.heading{
+        font-size: 1.9rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        margin: 1.9rem;
+    }
+    .heading-underline{
+        width: 3rem;
+        height: .2rem;
+        background-color: #1ebba3;
+        margin: 0 auto 2rem;
+    }
+    .reference svg.svg-inline--fa {
+        color: #1ebba3;
+    }
+    .reference h3{
+        font-size: 1.3rem;
+        text-transform: uppercase;
+        padding-bottom: .4rem;
+    }
+    .reference p{
+        font-size: 1.1rem;
+    }
+    /* skills */
+    .fixed{
+        background-image: url("../img/banner-min.png");
+        z-index: -1;
+    }
+    .fixed-background h3{
+
+    }
+    .fixed-background p{
+
     }
