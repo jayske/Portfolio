@@ -2,7 +2,6 @@
     /* import fonts from font.css */
     @import url(./fonts.css);
 
-
     body{
         overflow-x: hidden;
         font-family: "Roboto",sans-serif;
@@ -12,7 +11,7 @@
     /* navigation */
     .navbar{
         text-transform: uppercase;
-        font-weight: 500;
+        font-weight: 700;
         font-size: .9rem;
         letter-spacing: .1rem;
         background: rgba(0 ,0, 0, 0.6)!important;
@@ -37,6 +36,37 @@
     }
 
     /* landing */
-    .home-inner{
-        background-image: url("../img/render.JPG");
+    .landing .home-wrap .home-inner{
+        background-image: url("../img/banner.png");
+    }
+
+    .caption{
+        width: 100%;
+        max-width: 100%;
+        position: absolute;
+        top: 50%;
+        z-index: 1;
+        color: white;
+        text-transform: uppercase;
+    }
+
+    .caption h1{
+        font-weight: 700;
+        font-size: 3.8rem;
+        letter-spacing: 0.3rem;
+        text-shadow: .1rem .1rem .8rem black;
+        padding-bottom: 1rem;
+    }
+
+    .caption h3{
+        font-size: 2rem;
+        text-shadow: .1rem .1rem .5rem black;
+        padding-bottom: 1.6rem;
+    }
+
+    .btn-lg {
+        border-width: medium;
+        border-radius: 0;
+        padding: .6rem 1.3rem;
+        font-size: 1.1rem;
     }
