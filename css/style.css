@@ -36,7 +36,7 @@
     }
 
     /* landing */
-    .landing .home-wrap .home-inner{
+    .home-inner img{
         background-image: url("../img/banner.png");
     }
 

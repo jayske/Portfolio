@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner-min.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banner.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/indexs.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +74,7 @@
       <updated>1596797544353</updated>
       <workItem from="1596797556643" duration="1682000" />
       <workItem from="1596800157055" duration="506000" />
-      <workItem from="1596800784980" duration="29458000" />
+      <workItem from="1596800784980" duration="30545000" />
     </task>
     <task id="LOCAL-00001" summary="First banner created with Navbar">
       <created>1596828489238</created>
@@ -129,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596855659652</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="features with 1st icon">
+      <created>1596962119925</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596962119925</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,17 +147,18 @@
     <MESSAGE value="Navbar adjusted to the middle" />
     <MESSAGE value="Background image does not show up!" />
     <MESSAGE value="New shorten indexs" />
-    <option name="LAST_COMMIT_MESSAGE" value="New shorten indexs" />
+    <MESSAGE value="features with 1st icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="features with 1st icon" />
   </component>
   <component name="WindowStateProjectService">
     <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1596803048463">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596803048463" />
-    <state x="249" y="5" key="CommitChangelistDialog2" timestamp="1596855659371">
+    <state x="249" y="5" key="CommitChangelistDialog2" timestamp="1596962119490">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="249" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1596855659371" />
+    <state x="249" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1596962119490" />
     <state width="326" height="442" key="Diff.GoToChangePopup" timestamp="1596856004584">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
