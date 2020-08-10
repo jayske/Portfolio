@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="Projects added with detailed description and source code button">
+    <list default="true" id="4c5aa995-76aa-4535-afac-cb44f2ea18e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/indexs.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexs.html" afterDir="false" />
@@ -74,7 +74,7 @@
       <updated>1596797544353</updated>
       <workItem from="1596797556643" duration="1682000" />
       <workItem from="1596800157055" duration="506000" />
-      <workItem from="1596800784980" duration="56109000" />
+      <workItem from="1596800784980" duration="56692000" />
     </task>
     <task id="LOCAL-00001" summary="First banner created with Navbar">
       <created>1596828489238</created>
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597054919794</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Skills customized and detailed">
+      <created>1597060555389</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1597060555389</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +243,8 @@
     <MESSAGE value="Custom color for call to action" />
     <MESSAGE value="Added 2 call for action buttons - get cv and my projects" />
     <MESSAGE value="Projects added with detailed description and source code button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projects added with detailed description and source code button" />
+    <MESSAGE value="Skills customized and detailed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Skills customized and detailed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="370" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596968621977">
@@ -251,10 +259,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1597058993720" />
-    <state x="251" y="5" key="CommitChangelistDialog2" timestamp="1597060518210">
+    <state x="251" y="5" key="CommitChangelistDialog2" timestamp="1597060555096">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="251" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1597060518210" />
+    <state x="251" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1597060555096" />
     <state width="326" height="442" key="Diff.GoToChangePopup" timestamp="1596856004584">
       <screen x="0" y="0" width="1280" height="800" />
     </state>

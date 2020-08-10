@@ -186,7 +186,6 @@
     /*----------------------------------- SKILLS ---------------------------------------------*/
     .fixed-background h3{
         margin-top: 2rem;
-        margin-bottom: 2rem;
         z-index: 1;
     }
     .fixed-background p{
@@ -208,8 +207,9 @@
         font-size: 1.1rem;
         z-index: 1;
     }
+    /*----------------------------------- End SKILLS ---------------------------------------------*/
 
-    /* Image Reference */
+    /*----------------------------------- REFERENCE ---------------------------------------------*/
     .clients img{
         width:100%;
         border-radius: 50%;
@@ -221,7 +221,7 @@
     .client-hr{
         border-top: 0.05rem solid #1ebba3;
     }
-
+    /*----------------------------------- End REFERENCE ---------------------------------------------*/
     /* Contact */
 
     footer{
