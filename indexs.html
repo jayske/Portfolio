@@ -1,30 +1,59 @@
+    <!--
+
+    Purpose: Creating a personal website portfolio to help understanding the basics of HTML and CSS and
+                using Bootstrap as well;
+
+    Stages and self-requirements: Responsive to all device (PC, Laptop, Tablets, Phones)
+                Straight-forward and self-explanatory.
+
+    Pre:  Styling CSS file called style.css
+          Fonts file with operating fonts - Roboto
+          Icons file from Fonts Amazing
+          Bootstrap javascript file
+          Jquery file
+          Image file with png type
+
+    Post: None
+
+    Return: A portfolio website using local host
+
+    -->
+
     <!DOCTYPE html>
     <html lang="en">
+
+<!--========================================== HEADING =========================================================== -->
     <head>
         <meta charset="UTF-8">
+
+    <!-- for screen responsiveness -->
         <meta name = "viewport" content="width=device-width,initial-scale=1.0">
         <title>Jayse Cai Portfolio</title>
 
-        <!-- Bootstrap css file -->
+    <!-- Bootstrap css file -->
         <link rel="stylesheet" href="./css/bootstrap.min.css/">
 
-        <!-- font awesome icons -->
+    <!-- font awesome icons -->
         <link rel="stylesheet" href="./css/all.min.css/">
 
-        <!-- custom css file -->
+    <!-- custom css file -->
         <link rel="stylesheet" href="./css/style.css/">
-        <!-- this will help overwrite the bootstrap -->
+
     </head>
+<!--======================================== END HEADING ========================================================= -->
 
+
+
+
+<!--========================================  BODY  ============================================================== -->
     <body data-spy="scroll" data-target="#navbarResponsive">
-
-    <!-- identify our sections -->
-
-    <!-- ======================== Home Section ========================== -->
+    <!-- ======================== ABOUT Section ========================== -->
         <div id="home">
-        <!---- navigation --->
+
+        <!----___________________ Customizing navigation bar _________________--->
             <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-                <a class="navbar-brand" href="#"></a>
+
+                <a class="navbar-brand" href="#home"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -32,24 +61,27 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="#home">About</a>
+                            <a class="nav-link" href="#home">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#about">About</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#project">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#reference">References</a>
+                            <a class="nav-link" href="#skills">Skills</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#skills">Skill</a>
+                            <a class="nav-link" href="#people">References</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#people">Skill</a>
+                            <a class="nav-link" href="#conact">Contacts</a>
                         </li>
                     </ul>
                 </div>
             </nav>
-        <!-- end navigation -->
+        <!----___________________ End navigation bar _________________--->
 
         <!-- Landing -->
             <div class="landing">

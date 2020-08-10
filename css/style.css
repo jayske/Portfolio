@@ -124,7 +124,7 @@
         width: 3rem;
         height: .2rem;
         background-color: #1ebba3;
-        margin: 1rem auto 2rem;
+        margin: 1rem auto 5rem;
     }
     .reference svg.svg-inline--fa {
         color: #1ebba3;
@@ -164,7 +164,7 @@
         margin: 0.05rem;
     }
     .client-hr{
-        border-top: 1rem solid #1ebba3;
+        border-top: 0.05rem solid #1ebba3;
     }
 
     /* Contact */
