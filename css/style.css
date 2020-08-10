@@ -48,7 +48,6 @@
     .home-inner img{
         height:100%;
         width: 100%;
-        background: url(../img/banner-min.png) no-repeat 50% 50%;
         display: table;
         background-size: cover;
     }
@@ -118,14 +117,14 @@
         border-color: whitesmoke;
     }*/
 
-    /*--- About ---*/
+    /*----------------------------------- Start ABOUT ---------------------------------------------*/
     .narrow{
         width: 75%;
         margin: .5rem auto;
         padding-top: .5rem;
     }
     .narrow h1{
-        margin: auto;
+        margin: 3rem auto;
         font-size: 2.4rem;
     }
     p{
@@ -149,19 +148,19 @@
         background-color: #189582;
         border-color: #1ebba3;
     }
+    /*----------------------------------- End ABOUT ---------------------------------------------*/
 
-    /*----- Features -----*/
+    /*----------------------------------- PROJECTS ---------------------------------------------*/
     .jumbotron{
         margin-bottom: 0;
-        padding: 5rem 0 5rem;
+        padding: 3rem 0 5rem;
         border-radius: 0;
     }
-
-    .h3.heading{
+    h3.heading{
         font-size: 1.9rem;
         font-weight: 700;
         text-transform: uppercase;
-        margin: 1.9rem;
+        margin-top: 0;
     }
     .heading-underline{
         width: 3rem;
@@ -169,32 +168,45 @@
         background-color: #1ebba3;
         margin: .8rem auto 5rem;
     }
-    .reference svg.svg-inline--fa {
+    .project svg.svg-inline--fa {
         color: #1ebba3;
     }
-    .reference h3{
+    .project h3{
         font-size: 1.3rem;
+        font-weight: 700;
         text-transform: uppercase;
         padding-bottom: .4rem;
     }
-    .reference p{
+    .project p{
         font-size: 1.1rem;
     }
-    /* skills */
-    .fixed{
-        background-image: url("../img/banner-min.png");
-        z-index: -1;
-    }
-    .dark{
-        background-color: rgba(0, 0, 0, 0.75);
-        color: white;
-        padding: 7rem 2rem;
-    }
+    /*----------------------------------- End PROJECTS ---------------------------------------------*/
+
+
+    /*----------------------------------- SKILLS ---------------------------------------------*/
     .fixed-background h3{
-        margin-bottom: 2rem
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        z-index: 1;
     }
     .fixed-background p{
         margin-top: 1.5rem;
+        z-index: 1;
+    }
+    .skills svg.svg-inline--fa {
+        color: #1ebba3;
+        z-index: 1;
+    }
+    .skills h3{
+        font-size: 1.3rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        padding-bottom: .4rem;
+        z-index: 1;
+    }
+    .skills p {
+        font-size: 1.1rem;
+        z-index: 1;
     }
 
     /* Image Reference */
