@@ -44,7 +44,7 @@
         color: #1ebba3;
     }
 
-    /* landing */
+    /* Landing Background */
     .home-inner img{
         height:100%;
         width: 100%;
@@ -81,8 +81,18 @@
     .btn-lg {
         border-width: medium;
         border-radius: 0;
-        padding: .6rem 1.3rem;
+        padding: .6rem 1.2rem;
         font-size: 1.1rem;
+        font-weight: 700;
+        background-color: #1ebba3;
+        border-color: #1ebba3;
+    }
+
+    .btn-lg:hover {
+        font-weight: 700;
+        color: #1ebba3;
+        background-color: whitesmoke;
+        border-color: whitesmoke;
     }
 
     /*--- Project ---*/
