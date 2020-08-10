@@ -74,7 +74,7 @@
       <updated>1596797544353</updated>
       <workItem from="1596797556643" duration="1682000" />
       <workItem from="1596800157055" duration="506000" />
-      <workItem from="1596800784980" duration="46722000" />
+      <workItem from="1596800784980" duration="50701000" />
     </task>
     <task id="LOCAL-00001" summary="First banner created with Navbar">
       <created>1596828489238</created>
@@ -195,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597049789179</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added 2 call for action buttons - get cv and my projects">
+      <created>1597050659602</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1597050659602</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +227,8 @@
     <MESSAGE value="Added logo.png in Navbar and contacts" />
     <MESSAGE value="fixed background and caption margin right for landing page" />
     <MESSAGE value="Custom color for call to action" />
-    <option name="LAST_COMMIT_MESSAGE" value="Custom color for call to action" />
+    <MESSAGE value="Added 2 call for action buttons - get cv and my projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 2 call for action buttons - get cv and my projects" />
   </component>
   <component name="WindowStateProjectService">
     <state x="370" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596968621977">
@@ -231,10 +239,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="288" y="177" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/1280.0.1366.1024/0.0.1280.800@0.0.1280.800" timestamp="1596803048463" />
-    <state x="251" y="5" key="CommitChangelistDialog2" timestamp="1597049788963">
+    <state x="251" y="5" key="CommitChangelistDialog2" timestamp="1597050659313">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="251" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1597049788963" />
+    <state x="251" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1597050659313" />
     <state width="326" height="442" key="Diff.GoToChangePopup" timestamp="1596856004584">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
